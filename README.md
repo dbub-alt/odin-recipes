@@ -1,1 +1,2 @@
 # odin-recipes
+This project is going to become a webpage containing recipes. Through this project, I am going to demonstrate the HTML skills that I've acquired thus far. Meaning that it will exemplify a knowledge of HTML formatting, links, and images. Additionally, I hope to store everything in this project neatly as if it were a larger project.
