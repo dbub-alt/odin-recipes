@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: 350px;
+}
+
+h3 {
+    color: chartreuse;
+    background-color: darkgoldenrod;
+    font-family: cursive;
+    font-weight: bold;
+}

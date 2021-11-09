@@ -1,0 +1,21 @@
+img {
+    height: auto;
+    width: 350px;
+}
+
+#anchovy {
+    text-align: center;
+}
+
+#desc {
+    background-color: beige;
+    font-size: large;
+}
+
+#ing {
+    color: burlywood;
+}
+
+#steps {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

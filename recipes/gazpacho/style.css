@@ -1,0 +1,20 @@
+img {
+    height: auto;
+    width: 350px;
+}
+
+.desc {
+    color: royalblue;
+}
+
+.ing {
+    background-color: red;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.steps {
+    font-weight: bold;
+}
